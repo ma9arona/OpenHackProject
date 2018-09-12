@@ -1,0 +1,3 @@
+rootProject.name = 'OpenHackProject'
+
+include ':app'
