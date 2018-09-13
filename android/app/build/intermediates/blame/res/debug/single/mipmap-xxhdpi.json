@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/abdelkhalek/OpenHackProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/home/abdelkhalek/OpenHackProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\ma9aronaa\\Documents\\OpenHackProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ma9aronaa\\Documents\\OpenHackProject\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\abdelkhalek\\OpenHackProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\home\\abdelkhalek\\OpenHackProject\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

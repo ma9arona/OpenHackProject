@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/abdelkhalek/OpenHackProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/abdelkhalek/OpenHackProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+        "merged": "C:\\home\\abdelkhalek\\OpenHackProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\home\\abdelkhalek\\OpenHackProject\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\ma9aronaa\\Documents\\OpenHackProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\ma9aronaa\\Documents\\OpenHackProject\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
     }
 ]
